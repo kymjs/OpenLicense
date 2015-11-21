@@ -9,3 +9,7 @@ The open source license translate to chinese project.
 
 ##已翻译文档
 [Apache License 2.0](https://github.com/kymjs/OpenLicense/blob/master/ApacheLicense/ApacheLicense.md)
+
+##待翻译
+GPL 2.0  
+MIT License
